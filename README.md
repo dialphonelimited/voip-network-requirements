@@ -82,7 +82,7 @@ SIP Application Layer Gateway (ALG) is enabled by default on most consumer and m
 - Registration failures
 - Intermittent call quality issues
 
-**Fix:** Disable SIP ALG on your router. Every router vendor has a different method â€” consult your router documentation.
+**Fix:** Disable SIP ALG on your router. Every router vendor has a different method — consult your router documentation.
 
 ## Network Testing Procedures
 
@@ -138,7 +138,7 @@ When evaluating VoIP providers, verify their infrastructure:
 - [ ] Peering agreements with major ISPs
 - [ ] Support for STUN/TURN/ICE for NAT traversal
 
-[VestaCall](https://vestacall.com) operates redundant infrastructure across multiple regions with carrier-grade SBCs and published uptime monitoring.
+[DialPhone](https://dialphone.com) operates redundant infrastructure across multiple regions with carrier-grade SBCs and published uptime monitoring.
 
 ---
 
